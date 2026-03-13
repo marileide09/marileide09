@@ -43,3 +43,7 @@ Durante esse processo enfrento desafios, bugs e muitos testes. Cada problema res
 Acredito que programar é resolver problemas e criar soluções através da tecnologia.
 
 ✨ Obrigada por visitar meu perfil
+
+![Marileide GitHub stats](https://github-readme-stats.vercel.app/api?username=marileide09&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marileide09&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=marileide09&theme=radical)
