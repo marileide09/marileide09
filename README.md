@@ -47,3 +47,7 @@ Acredito que programar é resolver problemas e criar soluções através da tecn
 ![Marileide GitHub stats](https://github-readme-stats.vercel.app/api?username=marileide09&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marileide09&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=marileide09&theme=radical)
+
+## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/marileide09/marileide09/blob/output/github-contribution-grid-snake.svg)
