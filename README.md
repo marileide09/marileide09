@@ -31,6 +31,10 @@ Funcionalidades do sistema:
 🌐 Projeto online
 https://codewings-crud-react.vercel.app
 
+## 🎥 Demonstração do sistema
+
+![CodeWings](images/codewings.gif)
+
 📦 Código do projeto
 https://github.com/marileide09/codewings-crud-react
 
@@ -53,25 +57,4 @@ Acredito que programar é resolver problemas e criar soluções através da tecn
 ![Snake animation](https://github.com/marileide09/marileide09/blob/output/github-contribution-grid-snake.svg)
 name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: marileide09
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
